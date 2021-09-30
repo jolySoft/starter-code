@@ -9,6 +9,8 @@ ul {
     font-size: 15pt;
 }
 
+
+
 .box1 {
     border: 5px solid black;
     margin: 40px;
@@ -23,9 +25,6 @@ ul {
     width: 150px;
 }
 
-img {
-    size: 50%;
-}
 
 img:hover {
     opacity: 0.5;
