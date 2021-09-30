@@ -9,10 +9,8 @@ ul {
     font-size: 15pt;
 }
 
-
-
 .box1 {
-    border: 5px solid black;
+    border: 5px dotted black;
     margin: 40px;
     /* padding - top-right-bottom-left */
     padding: 20px 40px;
@@ -24,8 +22,6 @@ ul {
     margin: 10px;
     width: 150px;
 }
-
-
 img:hover {
     opacity: 0.5;
 }
